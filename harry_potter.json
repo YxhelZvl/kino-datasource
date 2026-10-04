@@ -1,0 +1,84 @@
+{
+  "peliculas": [
+    {
+      "id": "671",
+      "titulo": "Harry Potter y la piedra filosofal",
+      "alternativoT": "Harry potter 1",
+      "anio": 2001,
+      "calidad": "DUAL 4K",
+      "tamano": "11.07 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "url": "YxhelZvl::WWtWw1CEoLyC+xXFzTYgHAKCZo1CRkU8x/4aR4N8R2/OfpIXRJPgCZ8HL1+er42tIxxOUuAsujXPZd1Jz4csU//N2rQq9DEa5OUHBw=="
+    },
+    {
+      "id": "672",
+      "titulo": "Harry Potter y la cámara secreta ",
+      "alternativoT": "Harry potter 2",
+      "anio": 2002,
+      "calidad": "DUAL 4K",
+      "tamano": "11.56 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/d7lK3K1QWmcgjHyRMBV3rT2yzTM.jpg",
+      "url": "YxhelZvl::KdiKQdI9aYc26ga4Gg7ocgps7zcA0lGy75ieq23qhYRJ31mHg1eIHn7cVH2QyUMtP9PyniDGWbQWY7n6u0d/hQhx6yNqJYwJRMPXrg=="
+    },
+    {
+      "id": "673",
+      "titulo": "Harry Potter y el prisionero de Azkaban",
+      "alternativoT": "Harry potter 3",
+      "anio": 2004,
+      "calidad": "DUAL 4K",
+      "tamano": "10.61 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+      "url": "YxhelZvl::wKDiLe6wg/N54evkabOc8KwoVyg+xq/Zf9KpzyKAwDNyh/7SShaYpvHOmulsEWcvW/obwFq4KVuEZD9UOqJGDvWay644jmHBrMp8uQ=="
+    },
+    {
+      "id": "674",
+      "titulo": "Harry Potter y el cáliz de fuego",
+      "alternativoT": "Harry potter 4",
+      "anio": 2005,
+      "calidad": "DUAL 4K",
+      "tamano": "11.63 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "url": "YxhelZvl::TTWe9BbDkpf3vcxRFFu7KACB9nFvubE+bjWbxAllUC0+u0vgcxG0thFl9txCJthn3c4Y2yoq0T38aion9gMUlxGPvmjv1JZVSpABXQ=="
+    },
+    {
+      "id": "675",
+      "titulo": "Harry Potter y la Orden del Fénix",
+      "alternativoT": "Harry potter 5",
+      "anio": 2007,
+      "calidad": "4K TRIAL",
+      "tamano": "11.76 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+      "url": "YxhelZvl::j+MVzVKkd0Sz+jMbcyzWFNO2HW+o3JDZ8SOO3s+8197tdFrJbKINR8CgwIeZPg4bR5i76RQKq0khyF/O7lxdQfppqZQqAs5s0/upwA=="
+    },
+    {
+      "id": "767",
+      "titulo": "Harry Potter y el misterio del príncipe",
+      "alternativoT": "Harry potter 6",
+      "anio": 2009,
+      "calidad": "1080p DUAL",
+      "tamano": "12.22 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+      "url": "YxhelZvl::yRYypjkizReAO+9eRtwfobH2jO2XLlnYbjPa9GYXm1+QU+ZaeOju6sVLfQWpW36FsWzUWz0aPFIsPSjrJjrqL+nxObMECf28PD6Qqw=="
+    },
+    {
+      "id": "12444",
+      "titulo": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "alternativoT": "Harry potter 7",
+      "anio": 2010,
+      "calidad": "1080p DUAL",
+      "tamano": "10.83 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/bZYziROYpqXI1DeW4Xz3egMOqej.jpg",
+      "url": "YxhelZvl::jq96Nz6RbccFtMfhW+hqUMbOV9wuSEBkAdGgiC83SRiZmeWCfvhpLw71Db/oGABURGF+ueoetnSnHqXC27UkENZeR0HeHBTAFP8iOA=="
+    },
+    {
+      "id": "12445",
+      "titulo": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "alternativoT": "Harry potter 8",
+      "anio": 2011,
+      "calidad": "1080p DUAL",
+      "tamano": "9.98 GB",
+      "imagen": "https://image.tmdb.org/t/p/w600_and_h900_face/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "url": "YxhelZvl::mJ9tMkIKCJxmSZyaboG95QR2v+RBIHMAmnW89aYozM0QqaJVSUGZsGrVG8EAYFdUskeMdsdi3ngkwtMw4G1uHl0uC93hGaLRJ/kFCQ=="
+    }
+  ]
+}
